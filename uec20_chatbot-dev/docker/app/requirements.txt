@@ -1,0 +1,13 @@
+numpy 
+pandas 
+matplotlib 
+japanize_matplotlib 
+requests 
+torch
+transformers
+sentencepiece
+datasets
+evaluate
+notebook
+fastapi
+uvicorn[standard]
