@@ -1,6 +1,7 @@
 # 2ch-dialogSystem
 https://github.com/1never/open2ch-dialogue-corpus
 電通大の稲葉教授が公開している対話ログをrinnaでファインチューニングした対話システムです．
+南研究室のメンバーで共同で開発を行いました。
 - フロント
   - Next.js
 - バックエンド
